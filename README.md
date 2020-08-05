@@ -55,4 +55,4 @@ This is a fun exercise analysis on MS Dhoni using Pandas, Matplotlib and seaborn
 
 # **Dhoni&#39;s legacy is beyond stats…**
 
-![](RackMultipart20200804-4-17ygnry_html_93eb1f2778a6104d.jpg)
+Code Available at:- https://github.com/Auroshis/IPLDataAnalysis/blob/master/dhoni.ipynb
